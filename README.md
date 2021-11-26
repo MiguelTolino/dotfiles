@@ -1,5 +1,5 @@
 # dotfiles
 Configuration of .dotfiles
 
-##Usage
+## Usage
 ``git clone https://www.github.com/MikelTolino/dotfiles .dotfiles``
